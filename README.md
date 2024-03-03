@@ -1,0 +1,3 @@
+- Files here have been divided into folders based on the subjects they were submitted for.
+- Code has been uploaded in a format that is optimal for viewing. Rather than running and testing the code. 
+- All programs uploaded function as intended and received passing grades (at least).
